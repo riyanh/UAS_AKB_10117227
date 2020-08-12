@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.DetailFragment">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="248dp"
+            android:alpha="0.9"
+            android:padding="10dp">
+
+            <ViewFlipper
+                android:id="@+id/v_flipper"
+                android:layout_width="match_parent"
+                android:layout_height="248dp"
+                android:padding="10dp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="485dp"
+            android:background="@drawable/white_round_atas"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Nama Tempat Wisata">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/nama_wisata"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_fiber_pin"
+                    android:drawablePadding="10dp"
+                    android:enabled="false"
+                    android:focusable="false"
+                    android:text=""
+                    android:textColor="#474747" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Website">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_class"
+                    android:drawablePadding="10dp"
+                    android:enabled="false"
+                    android:id="@+id/website_wisata"
+                    android:focusable="false"
+                    android:text=""
+                    android:textColor="#474747" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Alamat Tempat Wisata">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/alamat_wisata"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_info"
+                    android:drawablePadding="10dp"
+                    android:enabled="false"
+                    android:focusable="false"
+                    android:text=""
+                    android:textColor="#474747" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <Button
+                android:id="@+id/lokasi_wisata"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/proximanovaregular"
+                android:text="View Map" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

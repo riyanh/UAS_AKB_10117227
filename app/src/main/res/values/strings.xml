@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">10117227_UASIF7</string>
+
+    <string name="tab1">HOME</string>
+    <string name="tab2">DESTI</string>
+    <string name="tab3">PROFILE</string>
+    <string name="about_me">About Me</string>
+    <string name="my_desc">I am a student currently studying at a university in Indonesia. my daily activities like sports and doing assignments. is now interested in web technology</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Skills</string>
+
+</resources>

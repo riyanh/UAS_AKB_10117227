@@ -1,0 +1,81 @@
+{
+  "wisata": [
+    {
+      "id": 1,
+      "nama": "Alun-Alun Kota Bandung",
+      "gambar_url": "Alun-Alun-Kota-Bandung.jpg",
+      "website": "-",
+      "alamat": "Jl. Asia Afrika, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat"
+    },
+    {
+      "id": 2,
+      "nama": "Forest Walk Babakan Siliwangi",
+      "gambar_url": "Forest-Walk-Babakan-Siliwangi.jpg",
+      "website": "-",
+      "alamat": "Jl. Tamansari No.73, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat"
+    },
+    {
+      "id": 3,
+      "nama": "Taman Sejarah Bandung",
+      "gambar_url": "Taman-Sejarah-Bandung.jpg",
+      "website": "https://taman-sejarah-bandung.business.site",
+      "alamat": "Jl. Aceh No.53, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat"
+    },
+    {
+      "id": 4,
+      "nama": "Dago Dreampark",
+      "gambar_url": "Dago-Dreampark.jpg",
+      "website": "https://dagodreampark.co.id/",
+      "alamat": "Jl. Dago Giri Km. 2.2 Mekarwangi, Pagerwangi, Lembang, Kabupaten Bandung Barat, Jawa Barat"
+    },
+    {
+      "id": 5,
+      "nama": "Bandung City Hall Park",
+      "gambar_url": "Bandung-City-Hall-Park.jpg",
+      "website": "https://taman-balai-kota-bandung.business.site",
+      "alamat": "Jl. Wastukencana No.2, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat"
+    },
+    {
+      "id":6,
+      "nama": "Bandung Zoological Garden",
+      "gambar_url": "Bandung-Zoological-Garden.jpg",
+      "website": "http://www.bandung-zoo.com/",
+      "alamat": "Jl. Kebun Binatang No.6, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat"
+    },
+    {
+      "id": 7,
+      "nama": "Rabbit Town",
+      "gambar_url": "Rabbit-Town.jpg",
+      "website": "-",
+      "alamat": "Jl. Rancabentang No.30-32, Ciumbuleuit, Kec. Cidadap, Kota Bandung, Jawa Barat"
+    },
+    {
+      "id": 8,
+      "nama": "Taman Hutan Raya Ir. H. Djuanda",
+      "gambar_url": "Taman-Hutan-Raya-Ir.-H.-Djuanda.jpg",
+      "website": "http://tahuradjuanda.jabarprov.go.id",
+      "alamat": "Kompleks Tahura, Jl. Ir. H. Juanda No.99, Ciburial, Kec. Cimenyan, Bandung, Jawa Barat"
+    },
+    {
+      "id": 9,
+      "nama": "Trans Studio Bandung",
+      "gambar_url": "Trans-Studio-Bandung.jpg",
+      "website": "http://www.transstudiobandung.com",
+      "alamat": "Jalan Jendral Gatot Subroto No.289 A, Cibangkong, Batununggal, Bandung City, West Java"
+    },
+    {
+      "id": 10,
+      "nama": "Vanda Park",
+      "gambar_url": "Vanda-Park.jpg",
+      "website": "-",
+      "alamat": "Jl. Merdeka No.9, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat"
+    },
+    {
+      "id": 11,
+      "nama": "Museum Konferensi Asia Afrika",
+      "gambar_url": "Museum-Konferensi-Asia-Afrika.jpg",
+      "website": "http://asianafricanmuseum.org",
+      "alamat": "Jl. Asia Afrika No.65, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat"
+    }
+  ]
+}
